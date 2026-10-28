@@ -17,13 +17,13 @@
 | Fecha de inicio prevista | [COMPLETAR] |
 | Fecha de cierre prevista | [COMPLETAR] |
 
-> *Ver: [Proyecto base](docs/00-proyecto-y-equipo/proyecto-base.md) · [Acta de constitución](docs/04-acta-plan-gestion/acta-constitucion.md)*
+> *Ver: [Proyecto base](docs/00-proyecto-y-equipo/proyecto-base.md)*
 
 ---
 
 ## 2. Interesados *(dominio: Interesados)*
 
-> *Ver: [Registro](docs/03-interesados-raci/registro-interesados.md) · [Matriz](docs/03-interesados-raci/matriz-interesados.md) · [Involucramiento](docs/05-integrador/interesados.md)*
+> *Ver: [Registro](docs/03-interesados-raci/registro-interesados.md) · [Matriz](docs/03-interesados-raci/matriz-interesados.md) · [Involucramiento](docs/06-integrador/interesados.md)*
 
 | Interesado | Rol | Influencia | Interés | Estrategia |
 |-----------|-----|:----------:|:-------:|-----------|
@@ -52,7 +52,7 @@
 
 ## 5. Planificación *(dominio: Planificación)*
 
-> *Ver: [Alcance](docs/05-integrador/alcance.md) · [EDT](docs/02-edt-estimacion/edt.md) · [Estimación](docs/02-edt-estimacion/estimacion.md) · [Cronograma](docs/05-integrador/tiempos.md)*
+> *Ver: [Alcance](docs/06-integrador/alcance.md) · [EDT](docs/02-edt-estimacion/edt.md) · [Estimación](docs/02-edt-estimacion/estimacion.md) · [Cronograma](docs/06-integrador/tiempos.md)*
 
 | Concepto | Valor |
 |----------|-------|
@@ -64,7 +64,7 @@
 
 ## 6. Entrega y calidad *(dominio: Entrega)*
 
-> *Ver: [Calidad](docs/05-integrador/calidad.md)*
+> *Ver: [Calidad](docs/06-integrador/calidad.md)*
 
 | # | Entregable | Criterio de aceptación |
 |---|-----------|------------------------|
@@ -75,7 +75,7 @@
 
 ## 7. Trabajo del proyecto *(dominio: Trabajo del proyecto)*
 
-> *Ver: [Configuración](docs/05-integrador/configuracion.md) · [Integración y cambios](docs/05-integrador/integracion.md) · [Plan de gestión](docs/04-acta-plan-gestion/plan-gestion.md)*
+> *Ver: [Configuración](docs/06-integrador/configuracion.md) · [Integración y cambios](docs/06-integrador/integracion.md) · [Plan de comunicaciones](docs/05-plan-comunicaciones/plan-comunicaciones.md)*
 
 | Comunicación | Frecuencia | Responsable |
 |-------------|:---------:|------------|
@@ -99,7 +99,7 @@
 
 ## 9. Incertidumbre y riesgos *(dominio: Incertidumbre)*
 
-> *Ver: [Riesgos](docs/05-integrador/riesgos.md)*
+> *Ver: [Registro de riesgos](docs/04-gestion-riesgos/registro-riesgos.md) · [Plan de respuesta](docs/04-gestion-riesgos/plan-respuesta.md) · [Riesgos en el integrador](docs/06-integrador/riesgos.md)*
 
 | ID | Riesgo | Exposición | Estrategia |
 |----|--------|:----------:|-----------|

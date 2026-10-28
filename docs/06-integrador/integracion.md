@@ -1,8 +1,27 @@
 # 🔗 Gestión de la Integración
 
-## Ciclo de vida y plan de gestión
+## Ciclo de vida y enfoque de gestión
 
-> Resumen de [`ciclo-de-vida.md`](../01-ciclo-de-vida/ciclo-de-vida.md) y [`plan-gestion.md`](../04-acta-plan-gestion/plan-gestion.md): [COMPLETAR]
+> Resumen de [`ciclo-de-vida.md`](../01-ciclo-de-vida/ciclo-de-vida.md) y de cómo se articulan las áreas de este integrador: [COMPLETAR]
+
+## Principios del PMBOK 7 aplicados
+
+| # | Principio | Cómo se refleja en este proyecto |
+|---|-----------|----------------------------------|
+| 1 | Ser un administrador diligente, respetuoso y cuidadoso | [COMPLETAR] |
+| 2 | Crear un entorno colaborativo | [COMPLETAR] |
+| 3 | Involucrarse eficazmente con los interesados | [COMPLETAR] |
+| 4 | Enfocarse en el valor | [COMPLETAR] |
+| 5 | Reconocer, evaluar y responder a las interacciones del sistema | [COMPLETAR] |
+| 6 | Demostrar comportamientos de liderazgo | [COMPLETAR] |
+| 7 | Adaptar el enfoque según el contexto | [COMPLETAR] |
+| 8 | Incorporar la calidad en procesos y entregables | [COMPLETAR] |
+| 9 | Navegar en la complejidad | [COMPLETAR] |
+| 10 | Optimizar las respuestas a los riesgos | [COMPLETAR] |
+| 11 | Adoptar la adaptabilidad y la resiliencia | [COMPLETAR] |
+| 12 | Facilitar el cambio para lograr el estado futuro previsto | [COMPLETAR] |
+
+> No hace falta completar los doce con la misma extensión: priorizar los que más condicionan al proyecto y justificar.
 
 ## Ejecución, monitoreo y control
 

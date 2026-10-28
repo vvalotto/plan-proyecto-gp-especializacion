@@ -14,11 +14,11 @@ flowchart LR
 | Bloque | Mensaje clave | Evidencia del plan | Responsable | Tiempo |
 |:------:|---------------|--------------------|-------------|:------:|
 | 1 | [COMPLETAR: qué problema se resuelve] | `proyecto-base.md` | [COMPLETAR] | [COMPLETAR] |
-| 2 | [COMPLETAR: qué producto y qué valor] | `acta-constitucion.md` | [COMPLETAR] | [COMPLETAR] |
+| 2 | [COMPLETAR: qué producto y qué valor] | `proyecto-base.md`, `alcance.md` | [COMPLETAR] | [COMPLETAR] |
 | 3 | [COMPLETAR: ciclo de vida elegido y alcance] | `ciclo-de-vida.md`, `alcance.md` | [COMPLETAR] | [COMPLETAR] |
 | 4 | [COMPLETAR: cronograma, hitos y costo] | `tiempos.md`, `estimacion.md` | [COMPLETAR] | [COMPLETAR] |
-| 5 | [COMPLETAR: principales riesgos y cómo se asegura la calidad] | `riesgos.md`, `calidad.md` | [COMPLETAR] | [COMPLETAR] |
-| 6 | [COMPLETAR: equipo, interesados y comunicación] | `matriz-raci.md`, `interesados.md` | [COMPLETAR] | [COMPLETAR] |
+| 5 | [COMPLETAR: principales riesgos y cómo se asegura la calidad] | `registro-riesgos.md`, `riesgos.md`, `calidad.md` | [COMPLETAR] | [COMPLETAR] |
+| 6 | [COMPLETAR: equipo, interesados y comunicación] | `matriz-raci.md`, `interesados.md`, `plan-comunicaciones.md` | [COMPLETAR] | [COMPLETAR] |
 | 7 | [COMPLETAR: qué se solicita al sponsor] | `plan-proyecto.md` | [COMPLETAR] | [COMPLETAR] |
 
 ## Consejos

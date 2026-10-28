@@ -11,9 +11,9 @@ Es una **plantilla de trabajo** para desarrollar, de forma incremental, el **Pla
 
 Los artefactos se construyen a lo largo de las 7 semanas del curso:
 
-- **4 actividades grupales** semanales (carpetas `01` a `04`), que son el insumo del trabajo final.
-- **1 trabajo integrador final** (carpeta `05`), que consolida y profundiza el plan en siete áreas.
-- **1 presentación final** del trabajo integrador (carpeta `06`).
+- **5 actividades grupales** (carpetas `01` a `05`), que son el insumo del trabajo final.
+- **1 trabajo integrador final** (carpeta `06`), que consolida y profundiza el plan en siete áreas.
+- **1 presentación final** del trabajo integrador (carpeta `07`).
 
 Cada archivo incluye instrucciones, tablas y diagramas en formato [Mermaid](https://mermaid.js.org/) listos para completar.
 
@@ -40,9 +40,10 @@ plan-proyecto-gp-especializacion/
 │   ├── 01-ciclo-de-vida/                  ← Actividad 1 (grupal)
 │   ├── 02-edt-estimacion/                 ← Actividad 2 (grupal)
 │   ├── 03-interesados-raci/               ← Actividad 3 (grupal)
-│   ├── 04-acta-plan-gestion/              ← Actividad 4 (grupal)
-│   ├── 05-integrador/                     ← Trabajo integrador final
-│   └── 06-presentacion/                   ← Presentación del integrador
+│   ├── 04-gestion-riesgos/                ← Actividad 4 (grupal)
+│   ├── 05-plan-comunicaciones/            ← Actividad 5 (grupal)
+│   ├── 06-integrador/                     ← Trabajo integrador final
+│   └── 07-presentacion/                   ← Presentación del integrador
 │
 └── plantillas/
     ├── formulario-cambio.md               ← Solicitud de cambio
@@ -59,9 +60,10 @@ plan-proyecto-gp-especializacion/
 | 1 | Selección del ciclo de vida | `01-ciclo-de-vida/` | 4 al 10 de noviembre | Unidad 2 |
 | 2 | EDT y estimación de tiempos | `02-edt-estimacion/` | 11 al 17 de noviembre | Unidad 3 |
 | 3 | Registro de interesados, RACI y matriz de interesados | `03-interesados-raci/` | 18 al 24 de noviembre | Unidad 4 |
-| 4 | Acta de constitución y Plan de gestión | `04-acta-plan-gestion/` | 25 de noviembre al 1 de diciembre | OKR |
-| 5 | Trabajo integrador (7 áreas) | `05-integrador/` | 2 al 8 de diciembre | Unidad 5 y recapitulación |
-| 6 | Presentación del integrador | `06-presentacion/` | hasta el 15 de diciembre | Presentación |
+| 4 | Gestión de riesgos | `04-gestion-riesgos/` | 25 de noviembre al 1 de diciembre | OKR |
+| 5 | Plan de comunicaciones | `05-plan-comunicaciones/` | [A CONFIRMAR] | [A CONFIRMAR] |
+| 6 | Trabajo integrador (7 áreas) | `06-integrador/` | 2 al 8 de diciembre | Unidad 5 y recapitulación |
+| 7 | Presentación del integrador | `07-presentacion/` | hasta el 15 de diciembre | Presentación |
 
 > Las **fechas límite de entrega** exactas se publican en el cronograma de Moodle y en el foro de novedades. Este template solo indica la semana de trabajo.
 
@@ -72,8 +74,8 @@ plan-proyecto-gp-especializacion/
 | Componente | Peso | Dónde se evidencia |
 |-----------|:----:|--------------------|
 | Desempeño semanal | 40 % | Cuestionarios y foros (Moodle, no se entrega en este repo) |
-| Trabajo grupal | 30 % | Carpetas `01` a `04` |
-| Trabajo final | 30 % | Carpetas `05` y `06` |
+| Trabajo grupal | 30 % | Carpetas `01` a `05` |
+| Trabajo final | 30 % | Carpetas `06` y `07` |
 
 La nota mínima para aprobar es **60 %**. Se evalúa también la presentación en tiempo y forma.
 
@@ -85,13 +87,13 @@ El programa del curso está organizado por unidades temáticas. Este template la
 
 | Unidad del programa | Dominio(s) de desempeño PMBOK 7 | Dónde se trabaja |
 |---------------------|---------------------------------|------------------|
-| U1 · Introducción, ciclos de vida, metodologías | Enfoque de desarrollo y ciclo de vida | `01`, `05/integracion` |
-| U2 · Alcance, EDT, tiempos, costos, estimación, requerimientos | Planificación · Entrega | `02`, `05/alcance`, `05/tiempos` |
-| U3 · RRHH, comunicaciones, interesados | Equipo · Interesados | `03`, `05/interesados` |
-| U4 · Calidad, adquisiciones, configuración, riesgos | Entrega · Trabajo del proyecto · Incertidumbre | `05/calidad`, `05/configuracion`, `05/riesgos` |
-| U5 · Integración | Trabajo del proyecto · Medición | `04`, `05/integracion` |
+| U1 · Introducción, ciclos de vida, metodologías | Enfoque de desarrollo y ciclo de vida | `01`, `06/integracion` |
+| U2 · Alcance, EDT, tiempos, costos, estimación, requerimientos | Planificación · Entrega | `02`, `06/alcance`, `06/tiempos` |
+| U3 · RRHH, comunicaciones, interesados | Equipo · Interesados | `03`, `05`, `06/interesados` |
+| U4 · Calidad, adquisiciones, configuración, riesgos | Entrega · Trabajo del proyecto · Incertidumbre | `04`, `06/calidad`, `06/configuracion`, `06/riesgos` |
+| U5 · Integración | Trabajo del proyecto · Medición | `06/integracion` |
 
-Los **12 principios** del PMBOK 7 se aplican de forma transversal; la tabla para documentarlos está en [`plan-gestion.md`](docs/04-acta-plan-gestion/plan-gestion.md).
+Los **12 principios** del PMBOK 7 se aplican de forma transversal; la tabla para documentarlos está en [`integracion.md`](docs/06-integrador/integracion.md).
 
 ---
 
@@ -100,7 +102,7 @@ Los **12 principios** del PMBOK 7 se aplican de forma transversal; la tabla para
 - Los bloques `[COMPLETAR: ...]` indican dónde el equipo debe ingresar información.
 - Los diagramas Mermaid tienen la **estructura** correcta; solo hay que reemplazar los datos de ejemplo.
 - Cada carpeta tiene un `README.md` con el objetivo, los archivos y los criterios de evaluación de la entrega.
-- Los artefactos de las carpetas `01` a `04` **se reutilizan** en el integrador. Si cambian, se actualizan en su carpeta de origen y se registra el cambio (ver [`plantillas/formulario-cambio.md`](plantillas/formulario-cambio.md)).
+- Los artefactos de las carpetas `01` a `05` **se reutilizan** en el integrador. Si cambian, se actualizan en su carpeta de origen y se registra el cambio (ver [`plantillas/formulario-cambio.md`](plantillas/formulario-cambio.md)).
 - El proyecto base proviene de las asignaturas anteriores: no se redefine, se **planifica**.
 
 ---

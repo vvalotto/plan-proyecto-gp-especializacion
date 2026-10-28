@@ -14,6 +14,8 @@ Verificar antes de subir la entrega a Moodle.
 - [ ] Cada paquete de la EDT aparece en la RACI y en el cronograma
 - [ ] Cada fila de la RACI tiene exactamente una **A** y al menos una **R**
 - [ ] Los requisitos tienen entregable y criterio de aceptación
+- [ ] Cada riesgo de prioridad alta tiene respuesta y responsable
+- [ ] Cada interesado del registro tiene al menos una comunicación planificada
 - [ ] Los cambios respecto de entregas previas están registrados
 
 ## Forma
