@@ -1,6 +1,6 @@
 # Tarea 1 — Proyecto y propuesta de valor
 
-**Semana de trabajo:** 28 de octubre al 3 de noviembre · **Modalidad:** grupal (equipos de 5 a 6 integrantes)
+**Semana de trabajo:** 28 de octubre al 3 de noviembre · **Modalidad:** grupal (equipos de 5 a 6 integrantes) · **Discusión entre pares:** clase síncrona de la semana 2
 
 ---
 

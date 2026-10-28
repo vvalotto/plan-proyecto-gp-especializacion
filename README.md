@@ -55,7 +55,7 @@ plan-proyecto-gp-especializacion/
 
 | # | Tarea | Carpeta | Semana de trabajo | Discusión entre pares (clase síncrona, jueves) |
 |---|-------|---------|-------------------|------------------------------------------------|
-| 1 | Proyecto y propuesta de valor | `00-equipo-y-proyecto/` | 28 de octubre al 3 de noviembre | — |
+| 1 | Proyecto y propuesta de valor | `00-equipo-y-proyecto/` | 28 de octubre al 3 de noviembre | Semana 2 |
 | 2 | Ciclo de vida, estructura del equipo y entregables | `01-ciclo-de-vida/` | 4 al 10 de noviembre | Semana 3 |
 | 3 | EDT y estimaciones | `02-edt-estimacion/` | 11 al 17 de noviembre | Semana 4 |
 | 4 | Matriz RACI | `03-raci/` | 18 al 24 de noviembre | Semana 6 (junto con la Tarea 5) |
