@@ -1,4 +1,4 @@
-# 🕸️ Red de Tareas y Ruta Crítica
+# 🕸️ Red de Tareas y Camino Crítico
 
 ## Diagrama de dependencias
 
@@ -16,7 +16,7 @@ flowchart LR
     style T31 fill:#FFCDD2,stroke:#C62828
 ```
 
-> Los nodos en rojo representan la **ruta crítica** (reemplazar según el cálculo propio).
+> Los nodos en rojo representan el **camino crítico** (reemplazar según el cálculo propio).
 
 ## Tabla de precedencias
 
@@ -27,7 +27,7 @@ flowchart LR
 | 2.1 | [COMPLETAR] | [COMPLETAR] | 1.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 3.1 | [COMPLETAR] | [COMPLETAR] | 1.2, 2.1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
-**Ruta crítica:** [COMPLETAR: secuencia de tareas con holgura 0]
+**Camino crítico:** [COMPLETAR: secuencia de tareas con holgura 0]
 **Duración total:** [COMPLETAR] días
 
 ---

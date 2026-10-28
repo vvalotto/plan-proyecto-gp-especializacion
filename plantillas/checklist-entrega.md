@@ -23,6 +23,10 @@ Verificar antes de subir la entrega a Moodle.
 - [ ] Los diagramas Mermaid se visualizan correctamente en GitHub
 - [ ] Todos los integrantes figuran en `equipo.md`
 - [ ] Para la discusión entre pares: el equipo tiene la tarea lista y puede explicarla en pocos minutos
+- [ ] Se indica en Moodle la **versión** del repositorio que se entrega (etiqueta o commit)
+- [ ] Se declaró en `equipo.md` el uso de IA generativa
+- [ ] La información publicada respeta la confidencialidad del proyecto
+- [ ] PechaKucha: se suben el archivo editable y el PDF antes del encuentro sincrónico
 - [ ] La entrega se realiza en tiempo y forma según el cronograma de Moodle
 
 ---

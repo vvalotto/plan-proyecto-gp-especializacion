@@ -27,15 +27,17 @@
 
 > Un indicador como mínimo por cada categoría: **cronograma**, **esfuerzo o costo** y **avance de entregables**.
 
-| ID | Categoría | Indicador | Fórmula | Fuente del dato | Frecuencia | Umbral (alerta) | Responsable |
-|----|-----------|-----------|---------|-----------------|:----------:|-----------------|-------------|
-| I1 | Cronograma | [COMPLETAR: p. ej. desvío de cronograma] | [COMPLETAR] | `cronograma.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| I2 | Esfuerzo / costo | [COMPLETAR: p. ej. esfuerzo real vs. estimado] | [COMPLETAR] | `estimacion.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
-| I3 | Avance de entregables | [COMPLETAR: p. ej. % de entregables aceptados] | [COMPLETAR] | `entregables.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| ID | Categoría | Indicador | Fórmula | Fuente del dato | Frecuencia | Umbral (alerta) | Responsable | Se informa en (comunicación # del plan) |
+|----|-----------|-----------|---------|-----------------|:----------:|-----------------|-------------|:----------------------------------------:|
+| I1 | Cronograma | [COMPLETAR: p. ej. desvío de cronograma] | [COMPLETAR] | `cronograma.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| I2 | Esfuerzo / costo | [COMPLETAR: p. ej. esfuerzo real vs. estimado] | [COMPLETAR] | `estimacion.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+| I3 | Avance de entregables | [COMPLETAR: p. ej. % de entregables aceptados] | [COMPLETAR] | `entregables.md` | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
 ## Relación con el plan
 
-> [COMPLETAR: cómo se conectan los indicadores con la EDT, el cronograma y los canales del plan de comunicaciones (a quién se informa cada indicador y cuándo).]
+> Cada indicador debe informarse en al menos una comunicación de [`plan-comunicaciones.md`](plan-comunicaciones.md) (columna "Se informa en").
+>
+> [COMPLETAR: cómo se conectan los indicadores con la EDT y el cronograma.]
 
 ---
 

@@ -4,12 +4,15 @@
 
 | Característica | Valoración | Comentario |
 |----------------|:----------:|------------|
-| Estabilidad de los requisitos | [Alta / Media / Baja] | [COMPLETAR] |
+| Estabilidad y claridad de los requisitos | [Alta / Media / Baja] | [COMPLETAR] |
 | Incertidumbre técnica | [COMPLETAR] | [COMPLETAR] |
-| Posibilidad de entregas incrementales | [COMPLETAR] | [COMPLETAR] |
-| Participación del usuario o cliente | [COMPLETAR] | [COMPLETAR] |
-| Experiencia del equipo | [COMPLETAR] | [COMPLETAR] |
-| Restricciones externas (hardware, regulatorias, de proveedores) | [COMPLETAR] | [COMPLETAR] |
+| Complejidad del producto | [COMPLETAR] | [COMPLETAR] |
+| Tamaño del equipo | [COMPLETAR] | [COMPLETAR] |
+| Experiencia y disponibilidad del equipo | [COMPLETAR] | [COMPLETAR] |
+| Posibilidad de entregas o validaciones incrementales | [COMPLETAR] | [COMPLETAR] |
+| Restricciones del entorno: plazos | [COMPLETAR] | [COMPLETAR] |
+| Restricciones del entorno: presupuesto | [COMPLETAR] | [COMPLETAR] |
+| Restricciones del entorno: componentes críticos | [COMPLETAR] | [COMPLETAR] |
 
 ## Alternativas consideradas
 

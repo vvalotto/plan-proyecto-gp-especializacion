@@ -27,6 +27,7 @@ Cada archivo incluye instrucciones, tablas y diagramas en formato [Mermaid](http
 3. Elegir el proyecto y formular la propuesta de valor en [`docs/00-equipo-y-proyecto/proyecto-y-propuesta-de-valor.md`](docs/00-equipo-y-proyecto/proyecto-y-propuesta-de-valor.md).
 4. Trabajar cada carpeta en la semana indicada en el cronograma.
 5. Llegar a la clase síncrona indicada con la tarea lista para la discusión entre pares.
+6. Declarar en [`equipo.md`](docs/00-equipo-y-proyecto/equipo.md) en qué partes se usó IA generativa y cuidar la confidencialidad de la información del proyecto.
 
 ---
 
@@ -75,7 +76,7 @@ plan-proyecto-gp-especializacion/
 | Tareas 1 a 5 | 30 % (6 % cada una) | Carpetas `00` a `04` |
 | PechaKucha | 30 % | Carpeta `05` |
 
-La nota mínima para aprobar es **60 %**. Las tareas y la presentación se evalúan con una rúbrica de tres niveles: **I** (insuficiente, 40 %), **A** (adecuado, 70 %) y **S** (sobresaliente, 100 %).
+La nota mínima para aprobar es **60 %**. Las tareas y la presentación se evalúan con una rúbrica de tres niveles: **I** (Insuficiente, 40 %), **A** (Alcanzado, 70 %) y **S** (Superado, 100 %).
 
 ---
 

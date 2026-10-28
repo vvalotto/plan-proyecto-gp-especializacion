@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Presentar el plan del proyecto mostrando que es **viable, está bien pensado y puede ejecutarse**. La presentación reemplaza a un plan escrito integrado: se construye con los resultados de las Tareas 1 a 5.
+Presentar el plan del proyecto ante un comité (los docentes) para convencerlo de que el proyecto vale la pena y de que el equipo puede ejecutarlo: es **viable, está bien pensado y puede ejecutarse**. La presentación reemplaza a un plan escrito integrado: se construye con los resultados de las Tareas 1 a 5.
 
 ## Formato
 
@@ -16,6 +16,7 @@ Presentar el plan del proyecto mostrando que es **viable, está bien pensado y p
 | Quién presenta | Todo el equipo |
 | Modalidad | Clase síncrona (grabada) |
 | Peso en la nota | 30 % |
+| Entrega | Presentación en archivo editable y en PDF, subida al campus antes del encuentro sincrónico |
 
 ## Archivos de esta sección
 
@@ -25,17 +26,19 @@ Presentar el plan del proyecto mostrando que es **viable, está bien pensado y p
 
 ## Criterios de evaluación (rúbrica I / A / S)
 
-| Aspecto | Qué se observa |
-|---------|----------------|
-| Coherencia del plan | Ciclo de vida, EDT, cronograma, RACI y métricas se sostienen entre sí |
-| Propuesta de valor | Queda claro qué se hace y por qué importa |
-| Síntesis | Se comunica lo esencial en el tiempo del formato |
-| Calidad visual | Diapositivas legibles, una idea por diapositiva |
-| Ajuste al formato | 20 × 20 respetado, sin leer las diapositivas |
-| Trabajo en equipo | Participación equilibrada de todos los integrantes |
-| Respuesta a preguntas | Respuestas fundamentadas |
+Cada docente califica cada aspecto; la nota del PechaKucha es el promedio de los docentes evaluadores.
 
-> Nivel **I** (insuficiente) = 40 % · **A** (adecuado) = 70 % · **S** (sobresaliente) = 100 % de cada aspecto.
+| Aspecto | Qué se evalúa |
+|---------|---------------|
+| Contenido y solidez del plan | Cubre propuesta de valor, ciclo de vida, EDT y cronograma, RACI, comunicaciones y métricas; es coherente entre sí y con las tareas entregadas |
+| Persuasión y convencimiento | Mensaje central claro, argumentos que apelan a lo que le importa a la audiencia y pedido concreto |
+| Oratoria | Seguridad, voz, ritmo, lenguaje corporal y contacto con la audiencia; expone sin leer |
+| Comunicación y narrativa | Hilo narrativo, síntesis, lenguaje adaptado a la audiencia y uso visual efectivo de las diapositivas |
+| Manejo del formato y del tiempo | Ajuste a las 20 diapositivas y 20 segundos; sincronía entre lo que se dice y lo que se muestra |
+| Trabajo en equipo | Coordinación entre expositores, transiciones fluidas y participación equilibrada de todos los integrantes |
+| Respuesta a preguntas | Claridad, honestidad y solidez al responder al comité; manejo de objeciones |
+
+> Nivel **I** (Insuficiente) = 40 % · **A** (Alcanzado) = 70 % · **S** (Superado) = 100 % de cada aspecto.
 
 ---
 

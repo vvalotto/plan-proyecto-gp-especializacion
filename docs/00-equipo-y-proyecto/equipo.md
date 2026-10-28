@@ -17,6 +17,14 @@
 
 **Equipo Nº:** [COMPLETAR]
 
+## Uso de IA generativa
+
+> Se puede usar IA como apoyo (borradores, ideas, preguntas de revisión). El equipo es responsable del contenido que entrega y debe declarar en qué partes la usó.
+
+| Tarea / archivo | Herramienta | Para qué se usó | Cómo se validó el resultado |
+|-----------------|-------------|-----------------|-----------------------------|
+| [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
+
 ## Repositorio
 
 **URL del repositorio:** `https://github.com/[usuario]/[nombre-repo]`

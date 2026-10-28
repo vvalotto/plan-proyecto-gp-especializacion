@@ -6,11 +6,13 @@
 
 | # | Información | Contenido | Formato | Nivel de detalle | Responsable | Receptores | Canal | Herramienta | Frecuencia |
 |---|-------------|-----------|---------|:----------------:|-------------|------------|-------|-------------|:----------:|
-| 1 | Avance del proyecto | Avance, bloqueos, próximos pasos | Reunión | Detallado | [COMPLETAR] | Equipo | Interactivo | [COMPLETAR] | Semanal |
-| 2 | Estado general | Avance, riesgos, cambios | Informe | Resumen | [COMPLETAR] | Sponsor | Push | [COMPLETAR] | Quincenal |
+| 1 | Avance del proyecto | Avance, bloqueos, próximos pasos | Reunión | Alto | [COMPLETAR] | Equipo | Interactivo | [COMPLETAR] | Semanal |
+| 2 | Estado general | Avance, riesgos, cambios | Informe | Bajo | [COMPLETAR] | Sponsor | Push | [COMPLETAR] | Quincenal |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
+> **Nivel de detalle:** Alto, Medio o Bajo. Incluir al menos una comunicación por cada interesado del registro y todas las comunicaciones formales del proyecto.
+>
 > **Canal:** *Interactivo* (reuniones, llamadas), *Push* (se envía: correos, informes), *Pull* (el interesado lo consulta: repositorio, tablero, wiki).
 
 ## Flujo de comunicación

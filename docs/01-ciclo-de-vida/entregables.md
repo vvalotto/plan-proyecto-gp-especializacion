@@ -10,6 +10,13 @@
 | E4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 | E5 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] |
 
+## Exclusiones
+
+> Qué queda explícitamente fuera del alcance del proyecto.
+
+- [COMPLETAR: exclusión 1]
+- [COMPLETAR: exclusión 2]
+
 ## Relación entre entregables y fases
 
 | Fase | Entregables que la cierran |
