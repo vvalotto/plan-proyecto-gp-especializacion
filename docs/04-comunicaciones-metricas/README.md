@@ -1,6 +1,6 @@
 # Tarea 5 — Comunicaciones, métricas e indicadores
 
-**Semana de trabajo:** 25 de noviembre al 1 de diciembre · **Modalidad:** grupal · **Discusión entre pares:** clase síncrona de la semana 6 (junto con la Tarea 4)
+**Semana de trabajo:** 25 de noviembre al 1 de diciembre · **Modalidad:** grupal · **Discusión entre pares:** clase síncrona de la semana 6
 
 ---
 

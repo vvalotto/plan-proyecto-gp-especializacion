@@ -58,11 +58,11 @@ plan-proyecto-gp-especializacion/
 | 1 | Proyecto y propuesta de valor | `00-equipo-y-proyecto/` | 28 de octubre al 3 de noviembre | Semana 2 |
 | 2 | Ciclo de vida, estructura del equipo y entregables | `01-ciclo-de-vida/` | 4 al 10 de noviembre | Semana 3 |
 | 3 | EDT y estimaciones | `02-edt-estimacion/` | 11 al 17 de noviembre | Semana 4 |
-| 4 | Matriz RACI | `03-raci/` | 18 al 24 de noviembre | Semana 6 (junto con la Tarea 5) |
-| 5 | Comunicaciones, métricas e indicadores | `04-comunicaciones-metricas/` | 25 de noviembre al 1 de diciembre | Semana 6 (junto con la Tarea 4) |
+| 4 | Matriz RACI | `03-raci/` | 18 al 24 de noviembre | Semana 5 |
+| 5 | Comunicaciones, métricas e indicadores | `04-comunicaciones-metricas/` | 25 de noviembre al 1 de diciembre | Semana 6 |
 | 6 | PechaKucha del plan de proyecto | `05-pechakucha/` | Preparación: 2 al 8 de diciembre | Presentación: semana 7 (9 al 15 de diciembre) |
 
-> La discusión entre pares se hace en la clase síncrona de la semana siguiente a la de trabajo, en salas de 2 o 3 equipos. La clase de la semana 5 se dedica a OKR, por eso las Tareas 4 y 5 se discuten juntas en la semana 6.
+> La discusión entre pares se hace en la clase síncrona de la semana siguiente a la de trabajo, en salas de 2 o 3 equipos.
 > Las **fechas límite de entrega** exactas se publican en el cronograma de Moodle y en el foro de novedades. Este template solo indica la semana de trabajo.
 
 ---

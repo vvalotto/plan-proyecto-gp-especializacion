@@ -1,6 +1,6 @@
 # Tarea 4 — Matriz RACI
 
-**Semana de trabajo:** 18 al 24 de noviembre · **Modalidad:** grupal · **Discusión entre pares:** clase síncrona de la semana 6 (junto con la Tarea 5)
+**Semana de trabajo:** 18 al 24 de noviembre · **Modalidad:** grupal · **Discusión entre pares:** clase síncrona de la semana 5
 
 ---
 
