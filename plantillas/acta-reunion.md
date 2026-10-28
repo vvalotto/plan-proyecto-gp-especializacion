@@ -5,7 +5,7 @@
 | Proyecto | [COMPLETAR] |
 | Fecha y hora | [COMPLETAR] |
 | Modalidad / lugar | [COMPLETAR] |
-| Tipo de reunión | [Seguimiento / Revisión de hito / Cambios / Otra] |
+| Tipo de reunión | [Seguimiento / Revisión de entrega / Otra] |
 | Redactor | [COMPLETAR] |
 
 ## Asistentes
@@ -30,10 +30,6 @@
 | # | Acción | Responsable | Fecha límite | Estado |
 |---|--------|-------------|:------------:|:------:|
 | A1 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR] | Pendiente |
-
-## Riesgos o cambios detectados
-
-> [COMPLETAR: si corresponde, registrar en `riesgos.md` o abrir un formulario de cambio.]
 
 **Próxima reunión:** [COMPLETAR]
 

@@ -1,5 +1,7 @@
 # 🌳 Estructura de Desglose del Trabajo (EDT / WBS)
 
+> Los entregables del primer nivel provienen de [`entregables.md`](../01-ciclo-de-vida/entregables.md) (Tarea 2). La EDT cubre el 100 % del alcance y nada más.
+
 ## Diagrama de la EDT
 
 ```mermaid

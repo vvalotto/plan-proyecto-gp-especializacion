@@ -1,14 +1,33 @@
 # 🔄 Ciclo de Vida del Proyecto
 
+## Caracterización del proyecto
+
+| Característica | Valoración | Comentario |
+|----------------|:----------:|------------|
+| Estabilidad de los requisitos | [Alta / Media / Baja] | [COMPLETAR] |
+| Incertidumbre técnica | [COMPLETAR] | [COMPLETAR] |
+| Posibilidad de entregas incrementales | [COMPLETAR] | [COMPLETAR] |
+| Participación del usuario o cliente | [COMPLETAR] | [COMPLETAR] |
+| Experiencia del equipo | [COMPLETAR] | [COMPLETAR] |
+| Restricciones externas (hardware, regulatorias, de proveedores) | [COMPLETAR] | [COMPLETAR] |
+
+## Alternativas consideradas
+
+> Comparar **al menos 2** alternativas de ciclo de vida.
+
+| Criterio | Alternativa A: [COMPLETAR] | Alternativa B: [COMPLETAR] |
+|----------|----------------------------|----------------------------|
+| Ventajas para este proyecto | [COMPLETAR] | [COMPLETAR] |
+| Desventajas / riesgos | [COMPLETAR] | [COMPLETAR] |
+| Encaje con las características del proyecto | [COMPLETAR] | [COMPLETAR] |
+
 ## Enfoque seleccionado
 
-> **[COMPLETAR: Predictivo / Adaptativo / Híbrido]**
+> **[COMPLETAR: Predictivo / Adaptativo / Híbrido / variante concreta]**
 
-## Justificación de la elección
+**Justificación:** [COMPLETAR: por qué es el más adecuado según la caracterización y la comparación anteriores.]
 
-> [COMPLETAR: explicar por qué este enfoque es el más adecuado considerando estabilidad de los requisitos, complejidad, tamaño y experiencia del equipo, tolerancia al cambio, posibilidad de entregas incrementales, restricciones del entorno, etc.]
-
-## Árbol de decisión
+## Árbol de decisión (ayuda)
 
 ```mermaid
 flowchart TD
@@ -27,8 +46,6 @@ flowchart TD
     style D fill:#C8E6C9,stroke:#2E7D32
     style H fill:#FFF9C4,stroke:#F9A825
 ```
-
-> **Decisión del equipo:** [COMPLETAR: indicar qué rama aplica al proyecto y por qué]
 
 ## Fases del proyecto
 

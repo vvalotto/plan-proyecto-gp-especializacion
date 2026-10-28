@@ -7,22 +7,22 @@ Verificar antes de subir la entrega a Moodle.
 - [ ] No quedan bloques `[COMPLETAR: ...]` sin resolver
 - [ ] Los datos de ejemplo de los diagramas fueron reemplazados
 - [ ] Las decisiones principales tienen justificación escrita
-- [ ] Los datos son consistentes con las entregas anteriores (EDT, RACI, cronograma, riesgos)
+- [ ] Los datos son consistentes con las tareas anteriores
 
 ## Consistencia
 
+- [ ] La EDT parte de los entregables de la Tarea 2
+- [ ] Los roles de la RACI provienen de la estructura del equipo (Tarea 2)
 - [ ] Cada paquete de la EDT aparece en la RACI y en el cronograma
 - [ ] Cada fila de la RACI tiene exactamente una **A** y al menos una **R**
-- [ ] Los requisitos tienen entregable y criterio de aceptación
-- [ ] Cada riesgo de prioridad alta tiene respuesta y responsable
 - [ ] Cada interesado del registro tiene al menos una comunicación planificada
-- [ ] Los cambios respecto de entregas previas están registrados
+- [ ] Los indicadores se calculan con datos que el proyecto realmente produce
 
 ## Forma
 
 - [ ] Los diagramas Mermaid se visualizan correctamente en GitHub
-- [ ] El historial de versiones de `plan-proyecto.md` está actualizado
 - [ ] Todos los integrantes figuran en `equipo.md`
+- [ ] Para la discusión entre pares: el equipo tiene la tarea lista y puede explicarla en pocos minutos
 - [ ] La entrega se realiza en tiempo y forma según el cronograma de Moodle
 
 ---
